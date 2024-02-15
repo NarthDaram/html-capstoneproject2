@@ -1,0 +1,73 @@
+body {
+    background-color: #000000;
+}
+
+
+.center {
+    text-align: center;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.my-heading {
+    color: turquoise;
+    font-weight: bold;
+    font-size: 50px;
+    margin-bottom: 40px;
+    margin-top: 50px;
+    font-family: 'Pacifico', cursive;
+
+}
+
+h2 {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 40px;
+    text-decoration: underline;
+}
+
+.border-bottom {
+    border-bottom: rgb(231, 18, 231);
+    
+}
+
+https://colorhunt.co/palette/f3f8ffe26ee57e30e149108b
+.border-bottom2 {
+    background-color: 49108B;
+}
+
+.bio-container {
+    max-width: 200px;
+    margin: 0 auto;
+}
+
+.bio {
+    color: blue;
+}
+
+.skills-container {
+    max-width: 200px;
+    margin: 0 auto;
+}
+
+.skills {
+    color: blue;
+}
+
+.skills2 {
+    color: blue;
+}
+
+.contact {
+    color: blue;
+}
+
+.twitter {
+    color: purple
+}
+
+.instgram {
+    color: purple
+}
